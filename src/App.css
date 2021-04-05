@@ -1,0 +1,26 @@
+.parent {
+  border: 1px solid lightblue;
+  width: 400px;
+  padding-bottom: 30px;
+}
+.child {
+  margin-top: 20px;
+  border: 1px solid lightblue;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.data-parent-child {
+  border: 1px solid blue;
+}
+
+.function-parent-child {
+  border: 1px solid orange;
+}
+.data-from-child {
+  position: absolute;
+  left: 420px;
+  top: 143px;
+  border: 1px solid lightblue;
+  width: 200px;
+}
